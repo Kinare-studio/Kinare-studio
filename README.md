@@ -1,4 +1,4 @@
-## Hello! I'm Arefinkina Regina!
+# Hello! I'm Arefinkina Regina!
 
 ### 👩‍💻 Frontend Developer
 ### 🌏 Interested in coding and travelling
