@@ -2,7 +2,6 @@
 
 #### 👩‍💻 Frontend Developer
 #### 🌏 Interested in coding and travelling
-#### 📩 Contact: regi.kolyadina@yandex.ru
 <br />
 
 ## There are some links to contact me:
