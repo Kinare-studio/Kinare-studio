@@ -4,10 +4,10 @@
 #### 🌏 Interested in coding and travelling
 #### 📩 Contact: regi.kolyadina@yandex.ru
 
-### There are some links to contact me:
+## There are some links to contact me:
   
 
-### 🛠 My Tech Stack:
+## 🛠 My Tech Stack:
 
 #### Main:
 
