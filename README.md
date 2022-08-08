@@ -1,5 +1,5 @@
 Hello! I'm Arefinkina Regina!
-👩‍💻 Frontend Developer
+👩‍💻 Frontend Developer/n
 🌏 Interested in coding and travelling
 📩 Contact: regi.kolyadina@yandex.ru
 There are some links to contact me:
