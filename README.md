@@ -28,9 +28,8 @@
 <img align="left" alt="Figma logo" width="36px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"/>
 
 <br />
-<br />
-<br />
 
-###  Languages:
+
+##  Languages:
 #### 🇷🇺 Russian (Native) 
 #### 🇬🇧 English (Upper-Intermediate, B2) 
