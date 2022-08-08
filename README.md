@@ -20,14 +20,12 @@
 
 <img align="left" alt="CSS logo" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 
-
-
 <br />
 <br />
 <br />
 
 ### Others
-<img align="left" alt="Git logo" width="100px" src="https://camo.githubusercontent.com/6872de59dac86ded0a8d5d2beb0cb20b0a9cd7e2bbd578493baa084ad5aa2700/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d3238324333343f6c6f676f3d676974266c6f676f436f6c6f723d463035303332"/>
+<img align="left" alt="Git logo" width="75px" src="https://camo.githubusercontent.com/6872de59dac86ded0a8d5d2beb0cb20b0a9cd7e2bbd578493baa084ad5aa2700/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d3238324333343f6c6f676f3d676974266c6f676f436f6c6f723d463035303332"/>
 
 <img align="left" alt="Figma logo" width="36px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"/>
 
