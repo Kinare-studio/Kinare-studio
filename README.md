@@ -1,15 +1,15 @@
 # Hello! I'm Arefinkina Regina!
 
-### 👩‍💻 Frontend Developer
-### 🌏 Interested in coding and travelling
-### 📩 Contact: regi.kolyadina@yandex.ru
+#### 👩‍💻 Frontend Developer
+#### 🌏 Interested in coding and travelling
+#### 📩 Contact: regi.kolyadina@yandex.ru
 
-## There are some links to contact me:
+### There are some links to contact me:
   
 
-## 🛠 My Tech Stack:
+### 🛠 My Tech Stack:
 
-### Main:
+#### Main:
 
 
 <img align="left" alt="JavaScript logo" width="100px" src="https://camo.githubusercontent.com/6f6990a311bb84dff8a426a5686eafc1986184c3b1066580fe36a9b0a0377d26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3238324333343f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145"/>
@@ -22,7 +22,7 @@
 
 <br />
 
-### Others:
+#### Others:
 <img align="left" alt="Git logo" width="55px" src="https://camo.githubusercontent.com/6872de59dac86ded0a8d5d2beb0cb20b0a9cd7e2bbd578493baa084ad5aa2700/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d3238324333343f6c6f676f3d676974266c6f676f436f6c6f723d463035303332"/>
 
 <img align="left" alt="Figma logo" width="36px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"/>
@@ -31,6 +31,6 @@
 <br />
 <br />
 
-##  Languages:
-### 🇷🇺 Russian (Native) 
-### 🇬🇧 English (Upper-Intermediate, B2) 
+###  Languages:
+#### 🇷🇺 Russian (Native) 
+#### 🇬🇧 English (Upper-Intermediate, B2) 
