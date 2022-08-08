@@ -7,11 +7,11 @@
 ## There are some links to contact me:
   
 
-🛠 My Tech Stack:
+### 🛠 My Tech Stack:
 
-Main:
-<img align="left" alt="JavaScript logo" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-JavaScript logo
+#### Main:
+
+<img align="left" alt="JavaScript logo" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 
 TypeScript logo
 
