@@ -6,7 +6,9 @@
 <br />
 
 ## There are some links to contact me:
-<a href="https://t.me/arefinkina_regina"><img align="left" alt="JavaScript logo" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/>
+<a href="https://t.me/arefinkina_regina"><img align="left" alt="Telegram logo" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"/>
+</a>
+<a href="https://api.whatsapp.com/send? phone=79052190752"><img align="left" alt="WhatsApp logo" width="36px" src="https://raw.githubusercontent.com/github/explore/fbea3555736cd38170cc0be88424d129741ffbb9/topics/whatsapp/whatsapp.png"/>
 </a>
 
 
