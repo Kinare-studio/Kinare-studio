@@ -36,6 +36,9 @@
 
 <img align="left" alt="Figma logo" width="36px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"/>
 
+
+<img align="left" alt="Photoshop logo" width="36px" src="https://i.imgur.com/uFYT6RF.png"/>
+
 <br />
 <br />
 
