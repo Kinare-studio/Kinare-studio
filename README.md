@@ -38,12 +38,6 @@
 
 <img align="left" alt="Photoshop logo" width="36px" src="https://i.imgur.com/uFYT6RF.png"/>
 
-<br />
-<br />
-<br />
-
-## 🛠 My development goals:
-
 <img align="left" alt="Redux logo" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"/>
 
 <img align="left" alt="Node.js logo" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
@@ -52,6 +46,8 @@
 
 <img align="left" alt="MySQL logo" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 
+<br />
+<br />
 <br />
 <br />
 
